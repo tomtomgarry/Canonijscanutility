@@ -17,7 +17,7 @@ To get started, you’ll need to download the latest version of the Canon IJ Sca
 Launch any web browser on your Windows computer.
 
 2️⃣ **Visit the Canon Support Website:**  
-Go to `ij.start.canon <https://ij.start.canon>`_ — the official Canon printer setup and driver download site.
+Go to `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_ — the official Canon printer setup and driver download site.
 
 3️⃣ **Enter Your Printer Model:**  
 Type your Canon printer’s model number in the search bar and select it from the dropdown list.
